@@ -1,0 +1,29 @@
+🔹 1. What are the 10 most common combinations of genres?
+MATCH (m:Movie)-[:BELONGS_TO]->(g:Genre)
+WITH m, COLLECT(g.name) AS genres
+RETURN genres, COUNT(*) AS count
+ORDER BY count DESC
+LIMIT 10;
+
+🔹 2. What are the five most common genres in films directed by Steven Spielberg?
+MATCH (d:Director {name: "Steven Spielberg"})-[:DIRECTED]->(m:Movie)-[:BELONGS_TO]->(g:Genre)
+RETURN g.name AS genre, COUNT(*) AS count
+ORDER BY count DESC
+LIMIT 5;
+
+3. Create [:ACTED_IN] relationships for Viggo Mortensen in all The Lord of the Rings films
+
+MERGE (a:Actor {name: "Viggo Mortensen"})
+WITH a
+MATCH (m:Movie)
+WHERE m.title CONTAINS "The Lord of the Rings"
+MERGE (a)-[:ACTED_IN]->(m);
+
+MATCH (a:Actor {name: "Viggo Mortensen"})-[r:ACTED_IN]->(m:Movie)
+RETURN a, r, m;
+
+🔹 4. Min Fråga:  (Example: Top 5 Directors with the Most Movies)
+MATCH (d:Director)-[:DIRECTED]->(m:Movie)
+RETURN d.name AS director, COUNT(m) AS movie_count
+ORDER BY movie_count DESC
+LIMIT 5;

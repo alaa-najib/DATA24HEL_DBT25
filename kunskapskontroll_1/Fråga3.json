@@ -1,0 +1,1317 @@
+﻿[
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1152923703630110664,
+      "start": 8136,
+      "end": 453,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1152923703630110664",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:453"
+    },
+    "m": {
+      "identity": 453,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "collapsing tunnel",
+          "explosion",
+          "new jersey",
+          "tunnel",
+          "weimaraner"
+        ],
+        "country": "USA",
+        "aspect_ratio": 1.85,
+        "num_voted_users": 53132,
+        "num_critic_for_reviews": 61.0,
+        "color": "Color",
+        "gross": 32885565.0,
+        "facenumber_in_poster": 0.0,
+        "num_user_for_reviews": 101.0,
+        "language": "English",
+        "title_year": 1996.0,
+        "movie_id": 116040,
+        "movie_title": "Daylight ",
+        "imdb_score": 5.8,
+        "duration": 114.0,
+        "actors": [
+          "Viggo Mortensen",
+          "Sylvester Stallone",
+          "Amy Brenneman"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt0116040/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Thriller"
+        ],
+        "director_name": "Rob Cohen",
+        "content_rating": "PG-13",
+        "id": 116040,
+        "budget": 80000000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:453"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1155175503443795912,
+      "start": 8136,
+      "end": 473,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1155175503443795912",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:473"
+    },
+    "m": {
+      "identity": 473,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "arab",
+          "cowboy",
+          "horse",
+          "race",
+          "sheik"
+        ],
+        "country": "USA",
+        "aspect_ratio": 2.35,
+        "num_voted_users": 67856,
+        "num_critic_for_reviews": 140.0,
+        "color": "Color",
+        "gross": 67286731.0,
+        "facenumber_in_poster": 1.0,
+        "num_user_for_reviews": 345.0,
+        "language": "English",
+        "title_year": 2004.0,
+        "movie_id": 317648,
+        "movie_title": "Hidalgo ",
+        "imdb_score": 6.7,
+        "duration": 136.0,
+        "actors": [
+          "Viggo Mortensen",
+          "J.K. Simmons",
+          "Peter Mensah"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt0317648/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Western"
+        ],
+        "director_name": "Joe Johnston",
+        "content_rating": "PG-13",
+        "id": 317648,
+        "budget": 100000000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:473"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1157427303257481160,
+      "start": 8136,
+      "end": 806,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1157427303257481160",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:806"
+    },
+    "m": {
+      "identity": 806,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "alabama",
+          "mutiny",
+          "order",
+          "radio",
+          "submarine"
+        ],
+        "country": "USA",
+        "aspect_ratio": 2.35,
+        "num_voted_users": 81026,
+        "num_critic_for_reviews": 82.0,
+        "color": "Color",
+        "gross": 91400000.0,
+        "facenumber_in_poster": 0.0,
+        "num_user_for_reviews": 194.0,
+        "language": "English",
+        "title_year": 1995.0,
+        "movie_id": 112740,
+        "movie_title": "Crimson Tide ",
+        "imdb_score": 7.3,
+        "duration": 123.0,
+        "actors": [
+          "Viggo Mortensen",
+          "Denzel Washington",
+          "Ricky Schroder"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt0112740/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller",
+          "War"
+        ],
+        "director_name": "Tony Scott",
+        "content_rating": "R",
+        "id": 112740,
+        "budget": 53000000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:806"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1159679103071166408,
+      "start": 8136,
+      "end": 927,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1159679103071166408",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:927"
+    },
+    "m": {
+      "identity": 927,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "feminism",
+          "hit in the crotch",
+          "kicked in the crotch",
+          "kicked in the testicles",
+          "navy"
+        ],
+        "country": "USA",
+        "aspect_ratio": 2.35,
+        "num_voted_users": 60326,
+        "num_critic_for_reviews": 97.0,
+        "color": "Color",
+        "gross": 48154732.0,
+        "facenumber_in_poster": 1.0,
+        "num_user_for_reviews": 142.0,
+        "language": "English",
+        "title_year": 1997.0,
+        "movie_id": 119173,
+        "movie_title": "G.I. Jane ",
+        "imdb_score": 5.8,
+        "duration": 125.0,
+        "actors": [
+          "Demi Moore",
+          "Viggo Mortensen",
+          "John Michael Higgins"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt0119173/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Action",
+          "Drama",
+          "War"
+        ],
+        "director_name": "Ridley Scott",
+        "content_rating": "R",
+        "id": 119173,
+        "budget": 50000000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:927"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1161930902884851656,
+      "start": 8136,
+      "end": 966,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1161930902884851656",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:966"
+    },
+    "m": {
+      "identity": 966,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "male pubic hair",
+          "pubic hair",
+          "russian",
+          "sex scene",
+          "turkish bath"
+        ],
+        "country": "USA",
+        "aspect_ratio": 1.85,
+        "num_voted_users": 189249,
+        "num_critic_for_reviews": 356.0,
+        "color": "Color",
+        "gross": 17114882.0,
+        "facenumber_in_poster": 1.0,
+        "num_user_for_reviews": 398.0,
+        "language": "English",
+        "title_year": 2007.0,
+        "movie_id": 765443,
+        "movie_title": "Eastern Promises ",
+        "imdb_score": 7.7,
+        "duration": 96.0,
+        "actors": [
+          "Naomi Watts",
+          "Viggo Mortensen",
+          "Raza Jaffrey"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt0765443/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ],
+        "director_name": "David Cronenberg",
+        "content_rating": "R",
+        "id": 765443,
+        "budget": 25000000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:966"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1164182702698536904,
+      "start": 8136,
+      "end": 1096,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1164182702698536904",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1096"
+    },
+    "m": {
+      "identity": 1096,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "12 step program",
+          "box office hit",
+          "car accident",
+          "vomiting",
+          "wedding"
+        ],
+        "country": "USA",
+        "aspect_ratio": 1.37,
+        "num_voted_users": 34597,
+        "num_critic_for_reviews": 116.0,
+        "color": "Color",
+        "gross": 37035515.0,
+        "facenumber_in_poster": 1.0,
+        "num_user_for_reviews": 194.0,
+        "language": "English",
+        "title_year": 2000.0,
+        "movie_id": 191754,
+        "movie_title": "28 Days ",
+        "imdb_score": 6.0,
+        "duration": 103.0,
+        "actors": [
+          "Viggo Mortensen",
+          "Steve Buscemi",
+          "Elizabeth Perkins"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt0191754/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ],
+        "director_name": "Betty Thomas",
+        "content_rating": "PG-13",
+        "id": 191754,
+        "budget": 43000000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1096"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1166434502512222152,
+      "start": 8136,
+      "end": 1491,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1166434502512222152",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1491"
+    },
+    "m": {
+      "identity": 1491,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "bar",
+          "crotch shot",
+          "female full frontal nudity",
+          "female pubic hair",
+          "robbery"
+        ],
+        "country": "USA",
+        "aspect_ratio": 1.85,
+        "num_voted_users": 186606,
+        "num_critic_for_reviews": 441.0,
+        "color": "Color",
+        "gross": 31493782.0,
+        "facenumber_in_poster": 1.0,
+        "num_user_for_reviews": 1125.0,
+        "language": "English",
+        "title_year": 2005.0,
+        "movie_id": 399146,
+        "movie_title": "A History of Violence ",
+        "imdb_score": 7.5,
+        "duration": 96.0,
+        "actors": [
+          "Kyle Schmid",
+          "Viggo Mortensen",
+          "William Hurt"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt0399146/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "director_name": "David Cronenberg",
+        "content_rating": "R",
+        "id": 399146,
+        "budget": 32000000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1491"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1168686302325907400,
+      "start": 8136,
+      "end": 1719,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1168686302325907400",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1719"
+    },
+    "m": {
+      "identity": 1719,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "desire",
+          "fighting",
+          "king",
+          "spain",
+          "trap"
+        ],
+        "country": "Spain",
+        "aspect_ratio": 1.85,
+        "num_voted_users": 10266,
+        "num_critic_for_reviews": 31.0,
+        "color": "Color",
+        "gross": 0.0,
+        "facenumber_in_poster": 1.0,
+        "num_user_for_reviews": 84.0,
+        "language": "Spanish",
+        "title_year": 2006.0,
+        "movie_id": 395119,
+        "movie_title": "Captain Alatriste: The Spanish Musketeer ",
+        "imdb_score": 6.1,
+        "duration": 145.0,
+        "actors": [
+          "Elena Anaya",
+          "Viggo Mortensen",
+          "Eduardo Noriega"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt0395119/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "History",
+          "Romance",
+          "Thriller",
+          "War"
+        ],
+        "director_name": "Agustín Díaz Yanes",
+        "content_rating": "",
+        "id": 395119,
+        "budget": 24000000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1719"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1170938102139592648,
+      "start": 8136,
+      "end": 1907,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1170938102139592648",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1907"
+    },
+    "m": {
+      "identity": 1907,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "apocalypse",
+          "boy",
+          "food",
+          "pistol",
+          "survival"
+        ],
+        "country": "USA",
+        "aspect_ratio": 2.35,
+        "num_voted_users": 177401,
+        "num_critic_for_reviews": 355.0,
+        "color": "Color",
+        "gross": 56692.0,
+        "facenumber_in_poster": 2.0,
+        "num_user_for_reviews": 504.0,
+        "language": "English",
+        "title_year": 2009.0,
+        "movie_id": 898367,
+        "movie_title": "The Road ",
+        "imdb_score": 7.3,
+        "duration": 111.0,
+        "actors": [
+          "Charlize Theron",
+          "Viggo Mortensen",
+          "Robert Duvall"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt0898367/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Adventure",
+          "Drama"
+        ],
+        "director_name": "John Hillcoat",
+        "content_rating": "R",
+        "id": 898367,
+        "budget": 25000000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1907"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1173189901953277896,
+      "start": 8136,
+      "end": 1934,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1173189901953277896",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1934"
+    },
+    "m": {
+      "identity": 1934,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "benzedrine",
+          "cactus",
+          "drugs",
+          "poem",
+          "year 1949"
+        ],
+        "country": "France",
+        "aspect_ratio": 2.35,
+        "num_voted_users": 33107,
+        "num_critic_for_reviews": 252.0,
+        "color": "Color",
+        "gross": 717753.0,
+        "facenumber_in_poster": 4.0,
+        "num_user_for_reviews": 128.0,
+        "language": "English",
+        "title_year": 2012.0,
+        "movie_id": 337692,
+        "movie_title": "On the Road ",
+        "imdb_score": 6.1,
+        "duration": 137.0,
+        "actors": [
+          "Viggo Mortensen",
+          "Kristen Stewart",
+          "Kirsten Dunst"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt0337692/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Adventure",
+          "Drama"
+        ],
+        "director_name": "Walter Salles",
+        "content_rating": "R",
+        "id": 337692,
+        "budget": 25000000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1934"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1175441701766963144,
+      "start": 8136,
+      "end": 2150,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1175441701766963144",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:2150"
+    },
+    "m": {
+      "identity": 2150,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "deputy",
+          "friend",
+          "hanging",
+          "rancher",
+          "widow"
+        ],
+        "country": "USA",
+        "aspect_ratio": 2.35,
+        "num_voted_users": 50198,
+        "num_critic_for_reviews": 190.0,
+        "color": "Color",
+        "gross": 20207003.0,
+        "facenumber_in_poster": 0.0,
+        "num_user_for_reviews": 202.0,
+        "language": "English",
+        "title_year": 2008.0,
+        "movie_id": 800308,
+        "movie_title": "Appaloosa ",
+        "imdb_score": 6.8,
+        "duration": 115.0,
+        "actors": [
+          "James Gammon",
+          "Viggo Mortensen",
+          "Tom Bower"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt0800308/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Western"
+        ],
+        "director_name": "Ed Harris",
+        "content_rating": "R",
+        "id": 800308,
+        "budget": 0.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:2150"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1177693501580648392,
+      "start": 8136,
+      "end": 2221,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1177693501580648392",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:2221"
+    },
+    "m": {
+      "identity": 2221,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "carl jung",
+          "patient",
+          "psychoanalysis",
+          "russian",
+          "sigmund freud"
+        ],
+        "country": "UK",
+        "aspect_ratio": 1.85,
+        "num_voted_users": 80617,
+        "num_critic_for_reviews": 345.0,
+        "color": "Color",
+        "gross": 5702083.0,
+        "facenumber_in_poster": 3.0,
+        "num_user_for_reviews": 190.0,
+        "language": "English",
+        "title_year": 2011.0,
+        "movie_id": 1571222,
+        "movie_title": "A Dangerous Method ",
+        "imdb_score": 6.5,
+        "duration": 99.0,
+        "actors": [
+          "Viggo Mortensen",
+          "Michael Fassbender",
+          "Sarah Gadon"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt1571222/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Biography",
+          "Drama",
+          "Thriller"
+        ],
+        "director_name": "David Cronenberg",
+        "content_rating": "R",
+        "id": 1571222,
+        "budget": 15000000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:2221"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1179945301394333640,
+      "start": 8136,
+      "end": 2490,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1179945301394333640",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:2490"
+    },
+    "m": {
+      "identity": 2490,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "censorship",
+          "children",
+          "corpse",
+          "heil hitler",
+          "suffering"
+        ],
+        "country": "UK",
+        "aspect_ratio": 2.35,
+        "num_voted_users": 5664,
+        "num_critic_for_reviews": 67.0,
+        "color": "Color",
+        "gross": 23091.0,
+        "facenumber_in_poster": 1.0,
+        "num_user_for_reviews": 42.0,
+        "language": "English",
+        "title_year": 2008.0,
+        "movie_id": 436364,
+        "movie_title": "Good ",
+        "imdb_score": 6.2,
+        "duration": 92.0,
+        "actors": [
+          "Jodie Whittaker",
+          "Viggo Mortensen",
+          "Steven Mackintosh"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt0436364/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War"
+        ],
+        "director_name": "Vicente Amorim",
+        "content_rating": "R",
+        "id": 436364,
+        "budget": 15000000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:2490"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1182197101208018888,
+      "start": 8136,
+      "end": 2701,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1182197101208018888",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:2701"
+    },
+    "m": {
+      "identity": 2701,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "adulterous wife",
+          "cheating wife",
+          "summer",
+          "unfaithfulness",
+          "woodstock"
+        ],
+        "country": "USA",
+        "aspect_ratio": 1.85,
+        "num_voted_users": 6782,
+        "num_critic_for_reviews": 47.0,
+        "color": "Color",
+        "gross": 4741987.0,
+        "facenumber_in_poster": 1.0,
+        "num_user_for_reviews": 114.0,
+        "language": "English",
+        "title_year": 1999.0,
+        "movie_id": 120613,
+        "movie_title": "A Walk on the Moon ",
+        "imdb_score": 6.6,
+        "duration": 107.0,
+        "actors": [
+          "Julie Kavner",
+          "Viggo Mortensen",
+          "Tovah Feldshuh"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt0120613/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Drama"
+        ],
+        "director_name": "Tony Goldwyn",
+        "content_rating": "R",
+        "id": 120613,
+        "budget": 14000000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:2701"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1184448901021704136,
+      "start": 8136,
+      "end": 2819,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1184448901021704136",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:2819"
+    },
+    "m": {
+      "identity": 2819,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "amish",
+          "love",
+          "murder",
+          "police",
+          "train"
+        ],
+        "country": "USA",
+        "aspect_ratio": 1.85,
+        "num_voted_users": 66966,
+        "num_critic_for_reviews": 83.0,
+        "color": "Color",
+        "gross": 65500000.0,
+        "facenumber_in_poster": 1.0,
+        "num_user_for_reviews": 175.0,
+        "language": "English",
+        "title_year": 1985.0,
+        "movie_id": 90329,
+        "movie_title": "Witness ",
+        "imdb_score": 7.4,
+        "duration": 112.0,
+        "actors": [
+          "Viggo Mortensen",
+          "Harrison Ford",
+          "Lukas Haas"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt0090329/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ],
+        "director_name": "Peter Weir",
+        "content_rating": "R",
+        "id": 90329,
+        "budget": 12000000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:2819"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1186700700835389384,
+      "start": 8136,
+      "end": 3321,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1186700700835389384",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:3321"
+    },
+    "m": {
+      "identity": 3321,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "algerian war",
+          "based on short story",
+          "hostage",
+          "teacher",
+          "title at the end"
+        ],
+        "country": "France",
+        "aspect_ratio": 2.35,
+        "num_voted_users": 4035,
+        "num_critic_for_reviews": 102.0,
+        "color": "Color",
+        "gross": 0.0,
+        "facenumber_in_poster": 0.0,
+        "num_user_for_reviews": 19.0,
+        "language": "French",
+        "title_year": 2014.0,
+        "movie_id": 2936180,
+        "movie_title": "Far from Men ",
+        "imdb_score": 7.3,
+        "duration": 101.0,
+        "actors": [
+          "Reda Kateb",
+          "Viggo Mortensen",
+          "Ángela Molina"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt2936180/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Drama",
+          "War",
+          "Western"
+        ],
+        "director_name": "David Oelhoffen",
+        "content_rating": "",
+        "id": 2936180,
+        "budget": 7700000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:3321"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1188952500649074632,
+      "start": 8136,
+      "end": 3669,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1188952500649074632",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:3669"
+    },
+    "m": {
+      "identity": 3669,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "bar",
+          "box office flop",
+          "hostage",
+          "new orleans louisiana",
+          "police"
+        ],
+        "country": "USA",
+        "aspect_ratio": 2.35,
+        "num_voted_users": 6632,
+        "num_critic_for_reviews": 37.0,
+        "color": "Color",
+        "gross": 326308.0,
+        "facenumber_in_poster": 3.0,
+        "num_user_for_reviews": 69.0,
+        "language": "English",
+        "title_year": 1996.0,
+        "movie_id": 115495,
+        "movie_title": "Albino Alligator ",
+        "imdb_score": 6.1,
+        "duration": 97.0,
+        "actors": [
+          "Joe Mantegna",
+          "Viggo Mortensen",
+          "Faye Dunaway"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt0115495/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "director_name": "Kevin Spacey",
+        "content_rating": "R",
+        "id": 115495,
+        "budget": 5000000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:3669"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1191204300462759880,
+      "start": 8136,
+      "end": 3819,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1191204300462759880",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:3819"
+    },
+    "m": {
+      "identity": 3819,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "electric chair",
+          "haunting",
+          "prison",
+          "prisoner",
+          "revenge"
+        ],
+        "country": "USA",
+        "aspect_ratio": 1.85,
+        "num_voted_users": 2705,
+        "num_critic_for_reviews": 68.0,
+        "color": "Color",
+        "gross": 354704.0,
+        "facenumber_in_poster": 0.0,
+        "num_user_for_reviews": 38.0,
+        "language": "English",
+        "title_year": 1987.0,
+        "movie_id": 95904,
+        "movie_title": "Prison ",
+        "imdb_score": 5.9,
+        "duration": 102.0,
+        "actors": [
+          "Lane Smith",
+          "Viggo Mortensen",
+          "Hal Landon Jr."
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt0095904/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Horror",
+          "Thriller"
+        ],
+        "director_name": "Renny Harlin",
+        "content_rating": "R",
+        "id": 95904,
+        "budget": 1300000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:3819"
+    }
+  },
+  {
+    "a": {
+      "identity": 8136,
+      "labels": [
+        "Actor"
+      ],
+      "properties": {
+        "name": "Viggo Mortensen"
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136"
+    },
+    "r": {
+      "identity": 1193456100276445128,
+      "start": 8136,
+      "end": 4705,
+      "type": "ACTED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:918e889f-42c5-4cf9-a4f3-7e78e82d9245:1193456100276445128",
+      "startNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:8136",
+      "endNodeElementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:4705"
+    },
+    "m": {
+      "identity": 4705,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "plot_keywords": [
+          "angel",
+          "corpse",
+          "girl",
+          "heaven",
+          "soul"
+        ],
+        "country": "USA",
+        "aspect_ratio": 2.35,
+        "num_voted_users": 24438,
+        "num_critic_for_reviews": 56.0,
+        "color": "Color",
+        "gross": 16115878.0,
+        "facenumber_in_poster": 0.0,
+        "num_user_for_reviews": 194.0,
+        "language": "English",
+        "title_year": 1995.0,
+        "movie_id": 114194,
+        "movie_title": "The Prophecy ",
+        "imdb_score": 6.6,
+        "duration": 98.0,
+        "actors": [
+          "Adam Goldberg",
+          "Viggo Mortensen",
+          "Virginia Madsen"
+        ],
+        "movie_imdb_link": "http://www.imdb.com/title/tt0114194/?ref_=fn_tt_tt_1",
+        "genres": [
+          "Action",
+          "Fantasy",
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ],
+        "director_name": "Gregory Widen",
+        "content_rating": "R",
+        "id": 114194,
+        "budget": 8000000.0
+      },
+      "elementId": "4:918e889f-42c5-4cf9-a4f3-7e78e82d9245:4705"
+    }
+  }
+]

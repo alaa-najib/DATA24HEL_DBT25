@@ -1,0 +1,22 @@
+﻿[
+  {
+    "director": "",
+    "movie_count": 102
+  },
+  {
+    "director": "Steven Spielberg",
+    "movie_count": 26
+  },
+  {
+    "director": "Woody Allen",
+    "movie_count": 22
+  },
+  {
+    "director": "Martin Scorsese",
+    "movie_count": 20
+  },
+  {
+    "director": "Clint Eastwood",
+    "movie_count": 20
+  }
+]
